@@ -1,0 +1,6 @@
+<application>
+  <component name="ycyReminder">
+    <option name="notifyBody" value="做咩呀做,饮茶先了" />
+    <option name="notifyAction" value="饮茶" />
+  </component>
+</application>
